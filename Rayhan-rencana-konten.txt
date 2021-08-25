@@ -6,8 +6,9 @@ RENCANA KONTEN RAYHAN
 * terkait konten
 
 - Game 
-  * Mobile Legend exe short
   * Apex Legend exe, dan short
+   ^ Kumpulan fitur senjata
+  * Exe game random
   
 - Belajar Editing
   * Photoshop 
@@ -15,6 +16,7 @@ RENCANA KONTEN RAYHAN
   * Kinemaster
   * Alight Motion
   
+
 - Tutorial
 
 - Learn about youtube
