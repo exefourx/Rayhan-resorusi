@@ -8,6 +8,7 @@ RENCANA KONTEN RAYHAN
 - Game 
   * Mobile Legend exe short
   * Apex Legend exe, dan short
+  * Exe game random
   
 - Editing
 
