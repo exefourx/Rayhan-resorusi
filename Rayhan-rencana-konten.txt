@@ -6,10 +6,8 @@ RENCANA KONTEN RAYHAN
 * terkait konten
 
 - Game 
-  * Mobile Legend exe short
   * Apex Legend exe, dan short
+   ^ Kumpulan fitur senjata
   * Exe game random
-  
-- Editing
 
 - Tutorial
